@@ -5,16 +5,16 @@ import { motion } from "framer-motion";
 import ScrollReveal from "@/components/ScrollReveal";
 
 // These can be replaced with your actual High On Burgers assets
-import heroSlide1 from "@/assets/hero-slide-1.jpg";
-import heroSlide2 from "@/assets/hero-slide-2.png";
-import heroSlide3 from "@/assets/hero-slide-3.png";
-import heroSlide4 from "@/assets/hero-slide-4.png";
-import burger1 from "@/assets/momos.jpg";
-import burger2 from "@/assets/momos.jpg";
-import burger3 from "@/assets/momos.jpg";
-import friesImg from "@/assets/momos.jpg";
-import gallery1 from "@/assets/momos.jpg";
-import gallery2 from "@/assets/momos.jpg";
+import heroSlide1 from "@/assets/hero 1.webp";
+import heroSlide2 from "@/assets/hero 2.webp";
+import heroSlide3 from "@/assets/hero 3.webp";
+import heroSlide4 from "@/assets/hero 4.png";
+import burger1 from "@/assets/burger 1.jpg";
+import burger2 from "@/assets/burger 2.jpg";
+import burger3 from "@/assets/burger 3.jpg";
+import friesImg from "@/assets/fries.jpg";
+import gallery1 from "@/assets/home 1.webp";
+import gallery2 from "@/assets/home 2.webp";
 
 // Exact NAP Data for High On Burgers - Satya Niketan
 const PHONE = "+919899116202";
