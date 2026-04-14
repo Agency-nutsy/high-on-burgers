@@ -23,7 +23,7 @@ const Footer = () => (
             Serving Satya Niketan's most addictive burgers, legendary tandoori twists, and late-night cravings until 4:00 AM.
           </p>
           <div className="flex gap-3">
-            <a href="https://www.instagram.com/highonburgers" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="w-10 h-10 rounded-full bg-background/10 flex items-center justify-center text-background/60 hover:bg-primary hover:text-primary-foreground transition-all duration-300">
+            <a href="https://www.instagram.com/highonburger/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="w-10 h-10 rounded-full bg-background/10 flex items-center justify-center text-background/60 hover:bg-primary hover:text-primary-foreground transition-all duration-300">
               <Instagram size={18} />
             </a>
           </div>
